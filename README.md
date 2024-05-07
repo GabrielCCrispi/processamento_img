@@ -1,12 +1,12 @@
 <h1>Processamento de imagens - Exercícios avaliação prática</h1> 
 
 <p align="center">
-	<img src="Assets/Logo.png">
+	<img src="https://www.embrapa.br/bme_images/thumb/97480040thumb.jpg">
 </p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/>
 </p>
 
 > Status do Projeto:  :warning: ( em desenvolvimento )
